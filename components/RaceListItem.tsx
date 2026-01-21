@@ -92,9 +92,9 @@ export const RaceListItem: React.FC<RaceListItemProps> = ({ race, isFocused, exp
              </div>
              <div className="grid gap-4">
                {[
-                 { day: race.isTest ? 'G1' : 'Cuma', event: race.isTest ? 'Veri Toplama' : 'Practice' },
-                 { day: race.isTest ? 'G2' : 'Cmt', event: race.isTest ? 'Aero & Lastik' : 'Qualifying' },
-                 { day: race.isTest ? 'G3' : 'Pazar', event: race.isTest ? 'Uzun Sürüş' : 'Race' }
+                 { day: race.isTest ? 'G1' : 'Cuma', event: race.isTest ? 'Veri Toplama' : 'Antrenman' },
+                 { day: race.isTest ? 'G2' : 'Cmt', event: race.isTest ? 'Aero & Lastik' : 'Sıralama' },
+                 { day: race.isTest ? 'G3' : 'Pazar', event: race.isTest ? 'Uzun Sürüş' : 'Yarış' }
                ].map((item, idx) => (
                  <div key={idx} className="flex items-center justify-between text-[11px] font-bold group">
                    <span className="text-slate-500 uppercase tracking-widest">{item.day}</span>
