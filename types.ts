@@ -5,10 +5,10 @@ export enum LeagueType {
 }
 
 export enum SessionType {
-  PRACTICE = 'PRACTICE',
-  QUALIFYING = 'QUALIFYING',
+  PRACTICE = 'ANTRENMAN',
+  QUALIFYING = 'SIRALAMA',
   SPRINT = 'SPRINT',
-  RACE = 'RACE'
+  RACE = 'YARIŞ'
 }
 
 export interface RaceSession {
