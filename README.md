@@ -2,7 +2,9 @@
 ### Formula 1 & MotoGP Yarış Takvimi (2026 → ) · Racing Calendar (2026 → )
 
 raceASS, **2026 sezonu ve sonrası** için **Formula 1** ve **MotoGP** yarış takvimlerini tek bir yerde sunan,
-hızlı, sade ve mobil öncelikli bir **Progressive Web App (PWA)**’dir.
+hızlı, sade ve mobil öncelikli bir **Progressive Web App (PWA)**’dir. Bu proje, geliştirme sürecinde Gemini ve ChatGPT’den destek alınarak oluşturulmuştur.
+
+raceASS is a fast, simple, and mobile-first **Progressive Web App (PWA)** that provides **Formula 1** and **MotoGP** race calendars for the **2026 season and beyond** in one place. This project was developed with support from Gemini and ChatGPT.
 
 🔗 **Canlı Demo / Live Demo:** https://asaltukhan.github.io/raceASS/
 
